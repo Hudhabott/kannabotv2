@@ -1,7 +1,7 @@
 {
-    "name": "Kanna BOT",
+    "name": "HUDHA BOT",
     "version": "2.10.18",
-    "description": "RPG WhatsApp BOT",
+    "description": "HUDHA BOT",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -28,7 +28,7 @@
     ],
     "homepage": "https://github.com/BochilGaming/games-wabot",
     "author": {
-        "name": "BochilGaming"
+        "name": "HUDHA BOT"
     },
     "repository": {
         "type": "git",
